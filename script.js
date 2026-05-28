@@ -1,0 +1,7 @@
+let nomeUsuario = prompt("Me informe seu nome, por favor")
+console.log (nomeUsuario)
+let idade = prompt("Agora me informe a idade")
+console.log (idade)
+let endereco = prompt(" Pra terminar, o seu endereço")
+console.log (endereco)
+alert(" seu nome é " + nomeUsuario +" ? " +" sua idade é " + " ? " + idade + " seu endereço é " + " ? " + endereco )
